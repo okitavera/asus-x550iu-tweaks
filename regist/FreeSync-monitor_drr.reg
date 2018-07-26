@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0000\]
+"DalMonitorSpecificDrrOverride"=hex:af,06,38,ed,28,3c,ae,0d,15,d5,28,3c
