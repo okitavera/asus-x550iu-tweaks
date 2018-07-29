@@ -1,0 +1,12 @@
+For BIOS Modification purposes
+
+- TSEnvironment.bin : B1DA0ADF-4F77-4070-A88E-BFFE1C60529A
+- Setup.bin : 899407D7-99FE-43D8-9A21-79EC328CAC2
+- VBios.bin : ED1F5A63-3B4B-4E8A-B8DF-880C03E46836
+
+Important Offsets
+- TSEnvironment.bin
+  0x2210 - 0x22d0 : Tabs order
+- Setup.bin
+  0x103ac : Chipset tab unsupression
+  
